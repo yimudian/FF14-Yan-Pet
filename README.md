@@ -25,6 +25,8 @@
 
 ## FFVII 蒂法 · Tifa
 
+![蒂法像素桌宠动作预览](assets/tifa/preview.png)
+
 参考你提供的蒂法动作条与角色形象制作。资源包已整理为透明 PNG 精灵图，8 列×9 行，每格 192×208；包含 8 个动作来源各 8 帧。仓库标准的第 8 行 `running` 暂时复用 `running-right` 动作。
 
 - [蒂法精灵图](assets/tifa/spritesheet.png)
