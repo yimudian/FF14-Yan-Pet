@@ -1,0 +1,24 @@
+{
+  "character": "Aerith / FFVII-inspired fan art",
+  "format": "transparent RGBA PNG",
+  "columns": 8,
+  "rows": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "cell_size": {
+    "width": 192,
+    "height": 208
+  },
+  "frames_per_state": 8,
+  "spritesheet": "spritesheet.png",
+  "preview": "preview.png",
+  "animations": "gifs/"
+}
